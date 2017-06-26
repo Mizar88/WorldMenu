@@ -6,4 +6,4 @@ Language file for WorldMenu , a GTA 5 Mod menu in many different languages (for 
 #### SUPPORTET LANGUAGES:
 
 ## German 🇩🇪
-## Englisch 🇺🇲 GB
+## Englisch 🇬🇧 🇺🇸
