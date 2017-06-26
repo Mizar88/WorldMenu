@@ -10,5 +10,5 @@ This is the [WorldMenu](https://de.gta5-mods.com/scripts/german-native-trainer-w
 
 # SUPPORTET LANGUAGES:
 
-## + German 🇩🇪
-## + Englisch 🇬🇧 🇺🇸
+## ⋅⋅* German 🇩🇪
+## ⋅⋅* Englisch 🇬🇧 🇺🇸
