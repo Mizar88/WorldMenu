@@ -1,5 +1,5 @@
 # WorldMenu
-Language file for WorldMenu , a GTA 5 Mod menu in many different languages. (for translators)
+Language file for WorldMenu , a GTA 5 Mod menu in many different languages.
 
 ## Please Translate the Language.ini file and sending my back at twoplay19@gmail.com THANKS!
 
